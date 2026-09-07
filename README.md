@@ -1,4 +1,5 @@
 # Blare_Phone_Locker
+<img width="691" height="477" alt="image" src="https://github.com/user-attachments/assets/1b6f50e8-2401-487e-a115-6eff86d65cb3" />
 
 I have created a fusion between an alarm and a phone locker
 
