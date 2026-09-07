@@ -9,10 +9,15 @@ I too have trouble with studying due to me addicted to my phone
 
 # BOM
 1x Seeed Studio XIAO ESP32-C3
+
 3x Cherry MX Switches
+
 1x SG90 servo
+
 1x Buzzer
+
 1x 220uf polarized capacitor
+
 1x 2.25 inch TFT Display
 
 
