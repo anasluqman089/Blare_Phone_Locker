@@ -1,12 +1,32 @@
 # Blare_Phone_Locker
-<img width="691" height="477" alt="image" src="https://github.com/user-attachments/assets/1b6f50e8-2401-487e-a115-6eff86d65cb3" />
+<img width="611" height="418" alt="image" src="https://github.com/user-attachments/assets/2de73071-3e4f-48b3-abc0-db4aded095c5" />
+
 
 I have created a fusion between an alarm and a phone locker
 
-The alarm have three button. one for switching and mode and the other is for action
+The alarm have three button.
+
+1. Switching mode
+
+2. Action
+
+3. Action
+   
 
 The main purpose of this product is to help other teenagers to stop doomscrolling and instead locked in.
 I too have trouble with studying due to me addicted to my phone
+
+There are two modes 
+
+1. Clock
+
+The user can set  the alarm by clicking the second button and change the alarm by pressing the third button
+when pressed the third button the time will go up 30 minutes. the use can set the alarm by pressing the second button again
+
+2. Phone Locker
+
+The user can lock the phone by pressing the second button and can set how much time to lock by pressing the third button, it is the same as the clock it will add 30 minutes. User must put the phone in the compartment and presssed the second button again. The Locker uses hinge system.
+
 
 # BOM
 1x Seeed Studio XIAO ESP32-C3
@@ -29,14 +49,23 @@ I too have trouble with studying due to me addicted to my phone
 <img width="667" height="518" alt="image" src="https://github.com/user-attachments/assets/ca4bbb4c-35fd-42b7-9245-a535ddc0ac7e" />
 
 # Alarm Case
-<img width="290" height="317" alt="image" src="https://github.com/user-attachments/assets/9ec354b5-55bf-4e8f-8ba7-8c996ff192aa" />
-<img width="356" height="87" alt="image" src="https://github.com/user-attachments/assets/4e1d0f10-05b2-4bb5-a14a-3ee9fc90117c" />
-<img width="277" height="293" alt="image" src="https://github.com/user-attachments/assets/6eda1a17-5122-4a35-8314-16e5bfe752c5" />
+
+Case
+<img width="604" height="417" alt="image" src="https://github.com/user-attachments/assets/821d80eb-a914-4bdf-9f53-d19bb51a5297" />
+
+Lid
+<img width="317" height="336" alt="image" src="https://github.com/user-attachments/assets/d5257325-607d-4d35-a235-9ed5ec4dbfeb" />
+
 
 # Locker Case
-<img width="323" height="407" alt="image" src="https://github.com/user-attachments/assets/0099c268-86bf-4200-9b09-f93ad235c0e6" />
-<img width="117" height="382" alt="image" src="https://github.com/user-attachments/assets/1d1539e0-07a9-4c42-a0a7-66db521b25d0" />
-<img width="282" height="393" alt="image" src="https://github.com/user-attachments/assets/06f8829e-3409-4a17-955a-fa971a0a18a5" />
+
+Compartment
+<img width="560" height="413" alt="image" src="https://github.com/user-attachments/assets/b864a68b-6ced-4b7e-b64a-2dbe59633b45" />
+
+lid
+<img width="597" height="421" alt="image" src="https://github.com/user-attachments/assets/0e3a04bc-cbac-46f1-b3d9-03670bc663f6" />
+
+
 
 
 
